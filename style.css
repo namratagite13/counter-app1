@@ -1,0 +1,26 @@
+
+
+
+.container{
+    text-align: center;
+    
+}
+
+button{
+    width: 8rem;
+    margin: .5rem;
+    border: none;
+    font-size: 2rem;
+    padding: 1rem;
+    background-color: darkred;
+    color: white;
+    border-radius: .2rem;
+
+}
+button:hover{
+    background-color: rgb(211, 67, 67);
+}
+button:nth-child(2){
+    background-color: darkolivegreen;
+
+}
